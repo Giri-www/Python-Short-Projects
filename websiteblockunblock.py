@@ -16,7 +16,7 @@ if not is_admin():
     ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
     exit()
 
-#! CODE
+#! CODE HERE
 
 #! Enter the site name which you want to block
 sites_to_block = [
