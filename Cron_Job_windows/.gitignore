@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+# Environments
+.venv
+venv/
+script_output.log
+# Ignore virtual environment directories
+env/
+.env/
+scripvenv/
+.scripvenv/
+
+
