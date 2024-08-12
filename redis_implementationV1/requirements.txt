@@ -1,0 +1,8 @@
+django
+django-redis
+django
+django-cors-headers
+djangorestframework
+django-filter
+DateTime
+requests
