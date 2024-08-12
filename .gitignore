@@ -1,16 +1,7 @@
-__pycache__/
-*.pyc
-.vscode/
-*.log
-allmodels.py
-doc_format_30052022.txt
-#virtual enviroment  new
+
 redisvenv1/
 redisvenv1/*
 *.redisvenv1
 ./redisvenv1/*
 ./redisvenv1/
-# .redisvenv1/*
-# redisvenv1/
 .venv/
-###############
