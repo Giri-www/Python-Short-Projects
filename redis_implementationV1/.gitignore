@@ -5,8 +5,11 @@ __pycache__/
 allmodels.py
 doc_format_30052022.txt
 #virtual enviroment  new
-redisvenv/
-redisvenv/*
-.redisvenv/*
-redisvenv/
+redisvenv1/
+redisvenv1/*
+*.redisvenv1
+./redisvenv1/*
+./redisvenv1/
+# .redisvenv1/*
+# redisvenv1/
 .venv/
