@@ -5,4 +5,4 @@ __pycache__/
 allmodels.py
 doc_format_30052022.txt
 redisvenv/
-redisvenv*/s
+redisvenv/*
