@@ -9,4 +9,4 @@ redisvenv/
 redisvenv/*
 .redisvenv/*
 redisvenv/
-.venv
+.venv/
