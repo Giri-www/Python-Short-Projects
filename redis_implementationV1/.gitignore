@@ -7,3 +7,6 @@ doc_format_30052022.txt
 #virtual enviroment  
 redisvenv1/
 redisvenv1/*
+.redisvenv1/*
+redisvenv1/
+.venv
