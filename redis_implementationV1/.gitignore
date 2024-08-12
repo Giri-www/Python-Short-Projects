@@ -4,7 +4,7 @@ __pycache__/
 *.log
 allmodels.py
 doc_format_30052022.txt
-#virtual enviroment  
+#virtual enviroment  new
 redisvenv/
 redisvenv/*
 .redisvenv/*
