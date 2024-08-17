@@ -1,7 +1,9 @@
 ##########  docker compose file #########
 
+## python version ##
 version: '3.8'
 
+## redis services ##
 services:
   redis:
     image: redis:latest
