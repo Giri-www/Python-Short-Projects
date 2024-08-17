@@ -20,6 +20,8 @@ from api_app.views import *
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    ########  add data in redis ##########
     path('retrive/', add_data, name='add_data'),
+    ######## fetch data in redis ###########
     path('fetch/', fetch_data, name='fetch_data'),
 ]
